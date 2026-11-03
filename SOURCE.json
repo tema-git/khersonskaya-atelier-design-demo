@@ -1,0 +1,35 @@
+{
+  "spreadsheet_row": 349,
+  "company": "Центр быта на Херсонской, 12 к5",
+  "brand_display": "Центр быта",
+  "brand_caption": "Херсонская, 12 к5",
+  "address": "Херсонская улица, 12 к5",
+  "city": "Москва",
+  "phone": "+79067956298",
+  "email": null,
+  "email_evidence": "Подтверждённая публичная почта в проверенных контактах не найдена. Адрес не предполагается.",
+  "telegram": [],
+  "telegramurls": [],
+  "source_urls": [
+    "https://urbanplaces.su/ru_moskva/moskva/card-70000001109774243-atele",
+    "https://2gis.ru/moscow/firm/70000001109774243"
+  ],
+  "current_site": null,
+  "verified_on": "2026-11-03",
+  "notes": [
+    "В текущей основной карточке 2GIS название «Центр быта», прежняя запись в списке называлась «Ателье». Адрес и исходный телефон совпадают. Не представлять описательное «Ателье на Херсонской» как зарегистрированный бренд.",
+    "В основной карточке 2GIS email и Telegram не опубликованы. Точные поиски по адресу/телефону не дали подтверждённой почты. Почтовый черновик возможен только без адресата до уточнения контакта."
+  ],
+  "phone_evidence": "Полный номер совпал в объекте contacts основной карточки 2GIS; рекламные и похожие организации в данные не включены.",
+  "phone_display": "+7 906 795-62-98",
+  "contacted": false,
+  "original_sheet_company": "Ателье (Херсонская улица, 12 к5)",
+  "repository": "khersonskaya-atelier-design-demo",
+  "local_path": "/Users/artyombabayan/Downloads/victory/demos/khersonskaya-atelier-design-demo",
+  "public_url": "https://tema-git.github.io/khersonskaya-atelier-design-demo/",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "120ee7b5860450296011f1886aa4121c661d2f9e",
+  "prepared_on": "2026-11-03",
+  "demo_only": true,
+  "data_submission": false
+}
